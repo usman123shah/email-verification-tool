@@ -29,7 +29,7 @@ A desktop application that allows you to **verify email addresses** from a CSV f
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/email-verification-tool.git
+   git clone https://github.com/usman123shah/email-verification-tool.git
    cd email-verification-tool
 
 
