@@ -15,13 +15,6 @@ A desktop application that allows you to **verify email addresses** from a CSV f
 - 🎨 Clean, user-friendly interface
 
 ---
-
-## 🖼️ Preview
-
-![UI Screenshot](preview.png) <!-- Add screenshot if you want later -->
-
----
-
 ## 🛠️ Technologies Used
 
 - **Python 3**
